@@ -1,0 +1,55 @@
+/* Localized versions of Info.plist keys */
+"KDes_ServerLanguage" = "zh";
+"TKN_ALERT_TIP" = "";
+"TKN_LOGIN_TITLE" = "登录";
+"TKN_LOGIN_NAME_TISHI" = "请输入用户名";
+"TKN_LOGIN_PASSWORD_TISHI" = "请输入密码";
+"TKN_NAME_NULL" = "用户名不能为空";
+"TKN_PASS_NULL" = "密码不能为空";
+"PP_OK" = "确定";
+"TKN_BACK_TITLE" = "返回";
+"TKN_BAR_REFRESH" = "刷新二维码";
+"TKN_BAR_KEFU" = "终端移动客服";
+"TKN_BAR_HISTORY" = "近期扫过的人";
+"TKN_BAR_SET_TITLE" = "退出";
+"TKN_LEFT_TITLE" = "微信二维码扫一扫";
+"TKN_MINGCHEHNG" = "名称：";
+"TKN_MENDIANDIZHI"= "门店地址：";
+"TKN_MENDIANDIANHUA"= "门店电话：";
+"TKN_CAOZUOYUAN"= "操作员：";
+"TKN_CAOZUOYUANDIANHUA"= "电话：";
+
+"TKN_YUYUETIYANDAN" = "预约体验单";
+"TKN_YUYUETIYANCHE" = "预约体验车";
+"TKN_ZAIXIANDINGDAN" = "在线订单";
+"TKN_YITIYANSHANGPING" = "已体验订单";
+"TKN_SHOUCANG" = "收藏";
+"TKN_LIULANLISHI"= "浏览历史";
+
+"TKN_VIPNICHENG" = "会员昵称：";
+"TKN_VIPFROM" = "来自：";
+"TKN_VIPTIYANDAN" = "预约体验单：";
+"TKN_VIPTIYANCHE" = "预约体验车：";
+"TKN_VIPSHOUCANG" = "收藏：";
+"TKN_VIPZAIXIAN" = "在线订单：";
+"TKN_VIPGOUWUCHE" = "在线购物车：";
+"TKN_VIPHISTORY" = "浏览历史：";
+
+"PP_DownRefresh" = "下拉刷新";
+"PP_ReleaseRefresh" = "释放刷新";
+
+"TKN_PINGPAI" = "品牌：";
+"TKN_YANSE" = "颜色：";
+"TKN_GUIGE" = "规格：";
+"TKN_JIAGE" = "价格：";
+
+"PP_DragUpGetMore" = "上拉刷新更多";
+"PP_LANDING_PROCESSING" = "加载中...";
+"PP_LoadingProcess" = "加载中...";
+"PP_O_k" = "确   定";
+
+"TKN_TIYAN_BTN_TITLE" = "体验";
+"TKN_GOUMAI_BTN_TITLE" = "购买";
+"TKN_ORDER_FORM_TITLE" = "订单号：";
+"TKN_PUARECHASE_TITLE" = "商品确认";
+"TKN_ALERT_STRING" = "用微信扫一扫二维码";
